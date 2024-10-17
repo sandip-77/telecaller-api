@@ -1,0 +1,17 @@
+{
+  "formatVersion": "2",
+  "dialogue": {
+      "file": "main.dsl"
+  },
+  "nlu": {
+      "language": "en-US",
+      "skills": [
+          ]
+  },
+  "nlg": {
+      "type": "phrases",
+      "file": "phrasemap.json"
+  },
+  "name": "cold-calling-template",
+  "description": "B2B Cold Calling AI Agent Template"
+}
